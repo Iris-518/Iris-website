@@ -6,5 +6,5 @@ nav:
   link:"/aboutme.html"
   - name:"Professional"
   link:"/docs/myfile.pdf"
-  - name: "Playground"
+  - name:"Playground"
   link:"https://www.google.com"
