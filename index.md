@@ -9,4 +9,5 @@ Feel free to explore!
 - [Blog](blog.md)
 
 ## Contact Me
-[email me]: (rfan@umass.edu) or connect on [LinkedIn] (https://www.linkedin.com/in/ruolan-f-042b72228/)
+- [email me]: (rfan@umass.edu)
+- [LinkedIn] (https://www.linkedin.com/in/ruolan-f-042b72228/)
