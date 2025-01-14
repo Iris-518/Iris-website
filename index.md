@@ -1,13 +1,11 @@
----
-layout: default
----
 <nav>
   <ul>
-    {% for item in site.nav %}
-      <li><a href="{{ item.link }}">{{ item.name }}</a></li>
-    {% endfor %}
+    <li><a href="/aboutme.html">About Me</a></li>
+    <li><a href="/docs/myfile.pdf">Professional</a></li>
+    <li><a href="https://www.google.com">Playground</a></li>
   </ul>
 </nav>
+
 
 # Welcome!
 Hello! This is a portfolio where I share my professionals, ideas, and updates.
