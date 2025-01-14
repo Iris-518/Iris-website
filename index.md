@@ -1,6 +1,5 @@
 
 
-# Welcome!
 Hello! This is a portfolio where I share my professionals, ideas, and updates.
 Feel free to explore!
 
