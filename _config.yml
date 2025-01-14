@@ -2,9 +2,9 @@ title: IRIS HOMEPAGE
 description: The Garden of Forking Paths
 theme: minima
 nav:
-  -name: "About Me"
-   link: "/aboutme.html"
-  -name: "Professional"
-   link: "/docs/myfile.pdf"
-  -name: "Playground"
-   link: "https://www.google.com"
+  - name: "About Me"
+    link: "/aboutme.html"
+  - name: "Professional"
+    link: "/docs/myfile.pdf"
+  - name: "Playground"
+    link: "https://www.google.com"
