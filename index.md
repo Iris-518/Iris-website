@@ -1,10 +1,3 @@
-<nav>
-  <ul>
-    <li><a href="/aboutme.html">About Me</a></li>
-    <li><a href="/docs/myfile.pdf">Professional</a></li>
-    <li><a href="https://www.google.com">Playground</a></li>
-  </ul>
-</nav>
 
 
 # Welcome!
