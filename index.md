@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+<nav>
+  <ul>
+    {% for item in site.nav %}
+      <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
 
 # Welcome!
 Hello! This is a portfolio where I share my professionals, ideas, and updates.
