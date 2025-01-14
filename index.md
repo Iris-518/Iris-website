@@ -3,7 +3,7 @@
   <h1>Welcome to My Portfolio</h1>
 </header>
 
-Hello! This is a portfolio where I share my professionals, ideas, and updates.
+Hello! Nice to meet you.
 Feel free to explore!
 
 ## Explore
